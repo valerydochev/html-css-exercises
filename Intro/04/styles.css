@@ -1,0 +1,18 @@
+p {
+    font-size: 25ox;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.italic {
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(164, 161, 161);
+}
+  
+span {
+    font-weight: bold;
+}
+  
